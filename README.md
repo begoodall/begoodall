@@ -1,14 +1,11 @@
 <h1 align='center'>Hey 👋 I'm Brian</h1>
 
-🏢 Employed as a Software Engineering Immersive Resident at Galvanize teaching Javascript to incredible people
-<br>
-📍 Based in San Francisco, CA
-<br>
-🤔 I’m looking for SWE opportunities in the Bay Area
-<br>
-📫 How to reach me: <a href="brian.k.goodall@gmail.com">brian.k.goodall@gmail.com</a>
-<br>
-
+<ul>
+  <li>🏢 Employed as a Software Engineering Immersive Resident at Galvanize teaching Javascript to incredible people</li>
+  <li>📍 Based in San Francisco, CA</li>
+  <li>🤔 I’m looking for SWE opportunities in the Bay Area</li>
+  <li>📫 How to reach me: <a href="brian.k.goodall@gmail.com">brian.k.goodall@gmail.com</a></li>
+</ul>
 Languages & Tools
 
 <img src="https://camo.githubusercontent.com/54594146796f3ae2f8800c01108cec243a40064e093cc8cd3e06594125e32989/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742532302d2532333332333333302e7376673f267374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145" alt="Javascript">
