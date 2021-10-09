@@ -1,7 +1,7 @@
-<h2 align='center'>Hey 👋 I'm Brian</h2>
-
+<h2 align='center'>Hey! I'm Brian 👋</h2>
+<h3>About me:</h3>
 <ul>
-  <li>🏢 Employed as a Software Engineering Immersive Resident at Galvanize teaching Javascript to incredible people</li>
+  <li>🏢 Currently employed as a Software Engineering Immersive Resident at Galvanize, teaching Javascript to incredible people</li>
   <li>📍 Based in San Francisco, CA</li>
   <li>🤔 I’m looking for SWE opportunities in the Bay Area</li>
   <li>📫 How to reach me: <a href="mailto:brian.k.goodall@gmail.com">brian.k.goodall@gmail.com</a></li>
