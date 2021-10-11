@@ -6,8 +6,16 @@
   <li>🤔 I’m looking for SWE opportunities in the Bay Area</li>
   <li>📫 How to reach me:
     <ul>
-      <li>Email: <a href="mailto:brian.k.goodall@gmail.com">brian.k.goodall@gmail.com</a></li>
-      <li>LinkedIn: <a href="https://www.linkedin.com/in/bgoodall/">linkedin/bgoodall</a></li>
+      <li>Email: <a
+                    href="mailto:brian.k.goodall@gmail.com"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >brian.k.goodall@gmail.com</a></li>
+      <li>LinkedIn: <a
+                       href="https://www.linkedin.com/in/bgoodall/"
+                       target="_blank"
+                       rel="noopener noreferrer"
+                       >linkedin/bgoodall</a></li>
   </li>
 </ul>
 
