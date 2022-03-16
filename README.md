@@ -1,9 +1,8 @@
 <h2 align='center'>Hey! I'm Brian 👋</h2>
 <h3>About me:</h3>
 <ul>
-  <li>🏢 Currently employed as a Software Engineering Immersive Resident at Galvanize, teaching Javascript to incredible people</li>
   <li>📍 Based in San Francisco, CA</li>
-  <li>👀 Looking for SWE opportunities in the Bay Area</li>
+  <li>👀 Looking for SWE opportunities in the Bay Area/remote</li>
   <li>🤩 Interests/Hobbies: Surfing, Weightlifting, Photography, NFL/NBA, Reading</li>
   <li>📫 How to reach me:</li>
     <ul>
