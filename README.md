@@ -1,5 +1,5 @@
-<h2 align='center'>Hey! I'm Brian 👋</h2>
-<h3>About me:</h3>
+<h1>Hey, I'm Brian.<h1>
+<h2>About me:</h2>
 <ul>
   <li>📍 Based in San Francisco, CA</li>
   <li>🤩 Interests/Hobbies: Surfing, Weightlifting, Photography, Reading</li>
