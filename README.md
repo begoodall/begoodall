@@ -1,8 +1,8 @@
 <h1>Hey! I'm Brian.<h1>
 <h3>About me:</h3>
 <ul>
-  <li>📍 Based in San Francisco, CA</li>
-  <li>🤩 Interests/Hobbies: Surfing, Weightlifting, Photography, Reading</li>
+  <li>📍 Based in San Francisco, CA. Currently building the latest generation of ad tech at Google to help keep the internet open and free.</li>
+  <li>🤩 Interests/hobbies: Surfing, Weightlifting, Photography, Reading</li>
   <li>📫 How to reach me:</li>
     <ul>
       <li>Email: <a target="_blank" rel="noopener noreferrer" href="mailto:brian.k.goodall@gmail.com">brian.k.goodall@gmail.com</a></li>
