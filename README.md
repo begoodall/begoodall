@@ -1,5 +1,5 @@
-<h1>Hey, I'm Brian.<h1>
-<h2>About me:</h2>
+<h1>Hey! I'm Brian.<h1>
+<h3>About me:</h3>
 <ul>
   <li>📍 Based in San Francisco, CA</li>
   <li>🤩 Interests/Hobbies: Surfing, Weightlifting, Photography, Reading</li>
